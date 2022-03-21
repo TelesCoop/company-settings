@@ -1,14 +1,15 @@
 ---
 
-- name: antoine.bernier
-  shell: /bin/bash
-  ssh_key: 'https://gitlab.com/Antoine95.keys'
-- name: maxime.bellec
-  shell: /bin/bash
-  ssh_key: 'https://gitlab.com/maxbellec.keys'
-- name: camille.legeron
-  shell: /bin/bash
-  ssh_key: 'https://gitlab.com/CamilleLegeron.keys'
-- name: alice.andres
-  shell: /bin/bash
-  ssh_key: 'https://gitlab.com/alice.telescoop'
+employees:
+  - name: antoine.bernier
+    shell: /bin/bash
+    ssh_key: 'https://gitlab.com/Antoine95.keys'
+  - name: maxime.bellec
+    shell: /bin/bash
+    ssh_key: 'https://gitlab.com/maxbellec.keys'
+  - name: camille.legeron
+    shell: /bin/bash
+    ssh_key: 'https://gitlab.com/CamilleLegeron.keys'
+  - name: alice.andres
+    shell: /bin/bash
+    ssh_key: 'https://gitlab.com/alice.telescoop'
