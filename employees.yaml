@@ -12,4 +12,4 @@ employees:
     ssh_key: 'https://gitlab.com/CamilleLegeron.keys'
   - name: alice.andres
     shell: /bin/bash
-    ssh_key: 'https://gitlab.com/alice.telescoop'
+    ssh_key: 'https://gitlab.com/alice.telescoop.keys'
