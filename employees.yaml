@@ -13,3 +13,5 @@ employees:
   - name: alice.andres
     shell: /bin/bash
     ssh_key: 'https://gitlab.com/alice.telescoop.keys'
+  - name: quentin.madura
+    remove: true
