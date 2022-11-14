@@ -14,4 +14,5 @@ employees:
     shell: /bin/bash
     ssh_key: 'https://gitlab.com/alice.telescoop.keys'
   - name: quentin.madura
-    remove: true
+    shell: /bin/bash
+    ssh_key: 'https://gitlab.com/grimbsi.keys'
