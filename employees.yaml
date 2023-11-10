@@ -3,16 +3,19 @@
 employees:
   - name: antoine.bernier
     shell: /bin/bash
-    ssh_key: 'https://gitlab.com/Antoine95.keys'
+    ssh_key: 'https://github.com/Kout95.keys'
   - name: maxime.bellec
     shell: /bin/bash
-    ssh_key: 'https://gitlab.com/maxbellec.keys'
+    ssh_key: 'https://github.com/maxbellec.keys'
   - name: camille.legeron
     shell: /bin/bash
-    ssh_key: 'https://gitlab.com/CamilleLegeron.keys'
+    ssh_key: 'https://github.com/CamilleLegeron.keys'
   - name: alice.andres
     shell: /bin/bash
-    ssh_key: 'https://gitlab.com/alice.telescoop.keys'
+    ssh_key: 'https://github.com/alice-telescoop.keys'
   - name: quentin.madura
     shell: /bin/bash
-    ssh_key: 'https://gitlab.com/grimbsi.keys'
+    ssh_key: 'https://github.com/QuentinMadura.keys'
+  - name: maxime.tribolet
+    shell: /bin/bash
+    ssh_key: 'https://github.com//maximetribolet.keys'
